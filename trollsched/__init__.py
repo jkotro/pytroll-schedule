@@ -74,7 +74,7 @@ INSTRUMENT = {"Suomi NPP": "viirs",
               "FY-3D": "avhrr",
               "FY-3C": "avhrr"}
 
-VIIRS_PLATFORM_NAMES = ["SUOMI NPP", "SNPP",
+VIIRS_PLATFORM_NAMES = ["SUOMI NPP", "SNPP", "SUOMI-NPP",
                         "NOAA-20", "NOAA 20", "NOAA-21", "NOAA 21"]
 
 MERSI_PLATFORM_NAMES = ["FENGYUN 3C", "FENGYUN-3C", "FY-3C"]
